@@ -1,3 +1,8 @@
+## Mergesort
+
+Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output.
+Merge sort is a divide and conquer algorithm that was invented by [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) in 1945.
+
 ## Goal
 
 Our goal is to compare the length and "complexity" of the same code in many different languages. Which language is the best? Now we can know.
